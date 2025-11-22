@@ -1,0 +1,38 @@
+{
+  "name": "Divyansh Tiwari",
+  "role": "Aspiring Android Developer",
+  "contact": {
+    "phone": "",
+    "email": "",
+    "linkedin": "",
+    "github": "",
+    "portfolio": ""
+  },
+  "summary": [
+    "Skilled in Java, React Native, Spring Boot",
+    "Experience in scalable apps & API integration",
+    "Certified in Android Development",
+    "Proven problem-solving through projects like TAZAA KHABAR, TWIN BRAIN, ZENFIT, ZENSTORE, EDUVERSE X",
+    "Strong development & debugging abilities"
+  ],
+  "education": {
+    "institution": "Chandigarh University",
+    "degree": "B.Tech CSE",
+    "expected_graduation": "2026",
+    "coursework": ["DSA (Java)", "DBMS", "OOP", "Software Engineering", "Computer Networks"]
+  },
+  "achievements": [
+    "5★ in Java (HackerRank) — Rating 44000",
+    "Solved 150+ problems on LeetCode"
+  ],
+  "certifications": [
+    {
+      "title": "Industrial Training — Android App Development",
+      "details": "Gained skills in Java, XML, SQLite, API integration, database handling"
+    }
+  ],
+  "social_engagements": [
+    "Participated in hackathons (achieved top 10% ranking)",
+    "Active in meetups, seminars, networking, and public speaking"
+  ]
+}

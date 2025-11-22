@@ -1,0 +1,7 @@
+{
+  "languages": ["Java", "Python", "TypeScript"],
+  "frameworks_tools": ["Spring Boot", "React Native", "Nativewind", "Android SDK", "REST APIs", "Git", "Gradle", "Maven"],
+  "databases": ["MySQL", "SQLite", "MongoDB", "Firebase"],
+  "cloud": ["AWS S3"],
+  "core_concepts": ["DSA (Java)", "OOP", "DBMS", "OS", "CN", "SE"]
+}

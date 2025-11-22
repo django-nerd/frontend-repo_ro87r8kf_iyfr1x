@@ -1,0 +1,34 @@
+[
+  {
+    "title": "ZENFIT – Health & Fitness Mobile App",
+    "tech": ["Java", "XML", "Firebase", "SQLite", "REST APIs"],
+    "highlights": [
+      "Built pedometer + smart notifications + Firebase auth",
+      "Achieved 30% faster performance via optimized API calls",
+      "Delivered smooth UI/UX & efficient admin controls"
+    ]
+  },
+  {
+    "title": "EDUVERSE X – Learning Management System App",
+    "tech": ["React Native", "Spring Boot", "MySQL", "Firebase"],
+    "highlights": [
+      "LMS with course management, progress tracking, real-time updates",
+      "Optimized backend for scalability and performance"
+    ]
+  },
+  {
+    "title": "TAZAA KHABAR",
+    "tech": ["React Native", "REST APIs"],
+    "highlights": ["News aggregation with category filters and offline reading"]
+  },
+  {
+    "title": "TWIN BRAIN",
+    "tech": ["Java", "Android SDK"],
+    "highlights": ["Brain-training games with adaptive difficulty and progress stats"]
+  },
+  {
+    "title": "ZENSTORE",
+    "tech": ["Spring Boot", "MongoDB", "REST APIs"],
+    "highlights": ["E-commerce backend with JWT auth and payment integration"]
+  }
+]
